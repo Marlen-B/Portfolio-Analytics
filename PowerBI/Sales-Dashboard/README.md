@@ -32,4 +32,7 @@ One of the most interesting insights comes from comparing the "Sale Amount" (how
 
 
 
-Feel free to check out the .pbix  file in this folder to explore the report in Power BI.
+Feel free to check out the  Visual with overall trends and the .pbix  file in this folder to explore the report in Power BI.
+
+ Visual: https://github.com/Marlen-B/Portfolio-Analytics/blob/db3fae23c6e7a28620cc00c7cb3ff4eebf7fec90/PowerBI/Sales-Dashboard/Capture1150.PNG
+ 
