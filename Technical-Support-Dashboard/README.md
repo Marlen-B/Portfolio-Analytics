@@ -14,4 +14,4 @@ Finally, the average resolution time of 12.53 hours, while seemingly acceptable,
 This dashboard was developed to support operational decision-making in IT support environments, with a focus on SLA performance, backlog behavior, team efficiency, and bottleneck identification.
 
 Feel free to check out the Visual with overall trends and the .pbix file in this folder to explore the report in Power BI.
-Visual: Technical-Support-Dashboard/Tech Support Dashboard - 03.PNG
+Visual: https://github.com/Marlen-B/Portfolio-Analytics/blob/3bdb3d440ebd889a5f2e66cab5165466d3184b6a/Technical-Support-Dashboard/Tech%20Support%20Dashboard%20-%2003.PNG
